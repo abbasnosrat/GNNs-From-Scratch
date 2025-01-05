@@ -1,0 +1,1 @@
+I was trying to get into GNNs and thought of no better way than to implement a few architectures from scratch. In this repo, I have implemented Graph Convolution, GAT, and GraphSage and trained them on CORA dataset.
